@@ -18,6 +18,8 @@ firefox http://localhost:8080/
 
 ```
 vue add vuetify
+#=>
+  - default
 ```
 
 ```
